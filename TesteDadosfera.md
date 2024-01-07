@@ -4,7 +4,7 @@
 
 - Olá! Verificamos que a coleta de dados ocorreu com sucesso, talvez você tenha tido algum problema com relação ao formato da planilha no google sheets. Em futuras importações de dados, caso sua planilha tenha sido criada no Excel e carregada para o Google Drive, ela será salva com a extensão xlsx ou xls. Antes de realizar a coleta dela para a Dadosfera, certifique se o arquivo continua nesses formatos. Caso não tenha sido realizada a mudança de extensão automaticamente, vá em: Arquivo > Salvar como Planilhas Google.
 
-*imagem com sucesso da importação*
+![Sucesso ao realizar importação](https://github.com/Pedroaguilar1232/PEDRO_ALMEIDA_DDF_SUPORTE_2023_01/blob/main/images/sucesso.png)
 
 # Item Processos Internos
 
@@ -15,6 +15,9 @@
 # Item Boas-Práticas de Suporte
 
 ### Suponha que você tenha acesso a uma ferramenta de Chatbot com AI robusta que possa ser integrada à Dadosfera para melhorar a interação do cliente. Como você implementaria essa ferramenta para melhorar a satisfação e o envolvimento do cliente? Desenhe o processo do fluxo do processo de atendimento, incluindo interações entre usuário, máquina (IA como o GPT ou outra), documentação (docs.dadosfera.ai) e humano (Suporte Dadosfera). Exemplifique, com um print de um prompt e uma resposta, como que uma IA poderia ajudar nesse atendimento. Sugerimos o uso de ChatGPT ou Bard.
+
+![Exemplo de prompt e  resposta](https://github.com/Pedroaguilar1232/PEDRO_ALMEIDA_DDF_SUPORTE_2023_01/blob/main/images/chatbot.png).
+
 
 
 
