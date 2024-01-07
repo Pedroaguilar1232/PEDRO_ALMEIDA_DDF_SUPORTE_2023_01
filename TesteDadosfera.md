@@ -48,6 +48,10 @@ Com base nas interações, a documentação é atualizada regularmente para gara
 
 ![Exemplo de prompt e  resposta](https://github.com/Pedroaguilar1232/PEDRO_ALMEIDA_DDF_SUPORTE_2023_01/blob/main/images/chatbot.png).
 
+# Item Consultas SQL
+
+### Na Dadosfera, temos uma base de dados com informações fictícias de uma empresa. Foi demandado pela sua liderança de Customer Service que crie análises descritivas da própria área com base nesses dados. Você pode ver mais detalhes aqui neste link. Utilize as mesmas credenciais para acessar nosso módulo de Visualização. Observe que você precisa utilizar o identificador da tabela para encontrá-la no nosso módulo de Visualização:
+
 
 
 
