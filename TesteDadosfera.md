@@ -60,7 +60,7 @@ GROUP BY "source"."GENDER"
 ORDER BY "source"."GENDER" ASC
 ```
 
-![dashboard](https://github.com/Pedroaguilar1232/PEDRO_ALMEIDA_DDF_SUPORTE_2023_01/blob/main/images/dash.png).
+![dashboard](https://github.com/Pedroaguilar1232/PEDRO_ALMEIDA_DDF_SUPORTE_2023_01/blob/main/images/dash2.png).
 
 
 
