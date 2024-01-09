@@ -46,7 +46,7 @@ Ferramentas analíticas monitoram a satisfação do cliente, avaliando feedbacks
 - Atualizações de Documentação:
 Com base nas interações, a documentação é atualizada regularmente para garantir que a IA e os agentes humanos tenham acesso às informações mais recentes.
 
-![Exemplo de prompt e  resposta](https://github.com/Pedroaguilar1232/PEDRO_ALMEIDA_DDF_SUPORTE_2023_01/blob/main/images/chatbot.png).
+![Exemplo de prompt e  resposta](https://github.com/Pedroaguilar1232/PEDRO_ALMEIDA_DDF_SUPORTE_2023_01/blob/main/images/chatbot.png)
 
 # Item Consultas SQL
 
@@ -60,7 +60,14 @@ GROUP BY "source"."GENDER"
 ORDER BY "source"."GENDER" ASC
 ```
 
-![dashboard](https://github.com/Pedroaguilar1232/PEDRO_ALMEIDA_DDF_SUPORTE_2023_01/blob/main/images/dash2.png).
+![dashboard](https://github.com/Pedroaguilar1232/PEDRO_ALMEIDA_DDF_SUPORTE_2023_01/blob/main/images/dash2.png)
+
+# Item Bônus I
+
+### Continue a análise dos dados anteriores, fazendo um dashboard completo analisando a base disponibilizada.
+
+![dashboard](https://github.com/Pedroaguilar1232/PEDRO_ALMEIDA_DDF_SUPORTE_2023_01/blob/main/images/dashboard.png)
+
 
 
 
